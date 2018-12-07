@@ -4,10 +4,10 @@ title: Customization
 nav_order: 6
 ---
 
-# Customization
+# Getting started
 {:.no_toc}
 
-## Table of contents
+## Get an API key
 {: .no_toc .text-delta }
 
 1. TOC
@@ -15,7 +15,7 @@ nav_order: 6
 
 ---
 
-## Color schemes
+## Make your first call and validate success
 {: .d-inline-block :}
 
 New
@@ -25,7 +25,7 @@ Just the Docs supports two color schemes: light (default), and dark.
 
 To enable a color scheme, set the `color_scheme` parameter in your site's `_config.yml` file:
 
-#### Example
+#### Next steps
 {: no_toc }
 
 ```yml
