@@ -4,18 +4,18 @@ title: Configuration
 nav_order: 2
 ---
 
-# Configuration
+# Overview
 
 Just the Docs has some specific configuration parameters that can be definied in your Jekyll site's `_config.yml` file.
 
-## Search enabled
+## Use cases
 
 ```yml
 # Enable or disable the site search
 search_enabled: true
 ```
 
-## Aux links
+## Architechture
 
 ```yml
 # Aux links for the upper right navigation
@@ -24,7 +24,7 @@ aux_links:
       - "//github.com/pmarsceill/just-the-docs"
 ```
 
-## Color scheme
+## Key concepts
 
 ```yml
 # Color scheme currently only supports "dark" or nil (default)
