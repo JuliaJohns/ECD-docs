@@ -14,3 +14,9 @@ aux_links:
 
 # Color scheme currently only supports "dark" or nil (default)
 color_scheme: nil
+
+---
+layout: default
+title: Customization
+nav_order: 2
+---
